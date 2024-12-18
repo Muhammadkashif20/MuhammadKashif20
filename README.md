@@ -1,4 +1,8 @@
+<h3 align="center">
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muhammadkashif20&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkashif20" /> </p>
 
