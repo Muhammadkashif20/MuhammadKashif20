@@ -1,8 +1,9 @@
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkashif20" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkashif20" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/154686104?v=4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadkashif20" alt="muhammadkashif20" /></a> </p>
+
 
 <h2 align="left">About Me:</h2>
 
