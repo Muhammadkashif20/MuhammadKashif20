@@ -2,7 +2,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </h3>
 <h3 align="center">
- 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muhammadkashif20&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 </h3>
