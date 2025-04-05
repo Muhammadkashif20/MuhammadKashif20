@@ -1,13 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cff,100:ffffff&height=120&section=header&text=Muhammad%20Kashif&fontSize=35&fontColor=ffffff" />
-</div>
+<h3 align="center">
 
-<div align="center">
-  
-  [![Profile](https://github-widgetbox.vercel.app/api/profile?username=Muhammadkashif20&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)  
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile%20views&color=007cff&style=flat" alt="muhammadkashif20" />
-</div>
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadkashif20&theme=flat&row=1&margin-w=10" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -31,11 +36,26 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,mui,react,next,redux,context,reactrouter,reactquery,hookform,nodejs,express,mongodb,firebase,git,github,postman,vercel,netlify" />
-</p>
+<div align="center">
+  
+  <!-- Web Technologies -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,mui" alt="Web Technologies" /><br/>
+
+  <!-- Frontend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,next,redux,shadcn,reactrouter" alt="Frontend Tools" /><br/>
+
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & DB" /><br/>
+
+  <!-- DevOps & Deployment -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" alt="DevOps Tools" /><br/>
+
+  <!-- Additional Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,vscode" alt="More Tools" />
+
+</div>
 
 ---
 
