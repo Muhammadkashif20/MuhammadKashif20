@@ -30,28 +30,50 @@
 
 ---
 
-## 🚀 Languages & Tools
+## 🧠 Languages & Tools I Use
 
 <div align="center">
   
-  <!-- Web Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,mui" alt="Web Technologies" /><br/>
+  <!-- 🖥️ Frontend -->
+  <h4>🖥️ Frontend Development</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-333?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=react-query&logoColor=white" />
 
-  <!-- Frontend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,next,redux,shadcn,reactrouter" alt="Frontend Tools" /><br/>
+  <br/><br/>
 
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & DB" /><br/>
+  <!-- 🗄️ Backend -->
+  <h4>🗄️ Backend Development</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 
-  <!-- DevOps & Deployment -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" alt="DevOps Tools" /><br/>
+  <br/><br/>
 
-  <!-- Additional Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,vscode" alt="More Tools" />
+  <!-- 🚀 Deployment -->
+  <h4>🚀 Deployment & Tools</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
