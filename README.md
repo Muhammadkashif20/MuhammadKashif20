@@ -39,13 +39,13 @@
 <div align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,shadcn" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,shadcn/ui" />
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" />
 
 </div>
 
