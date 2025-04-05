@@ -52,14 +52,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🌟 Contribution Heatmap
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadkashif20&theme=minimal" />
-</div>
+<p align="center">
+  <a href="https://github.com/Muhammadkashif20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&area=true&bg_color=ffffff&color=007cff&line=007cff&point=24292e&hide_border=true" alt="GitHub Contribution Graph" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:007cff&height=100&section=footer"/>
-</div>
