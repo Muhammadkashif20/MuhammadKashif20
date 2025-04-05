@@ -39,7 +39,7 @@
 <div align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,Shadcn/UI" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,shadcn/ui" />
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
