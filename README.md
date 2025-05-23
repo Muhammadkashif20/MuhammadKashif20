@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.vercel.app/?lines=Full-Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast;Continuous+Learner&center=true&size=24&width=500&height=50&color=007cff&vCenter=true&pause=1000" />
+      <img src="https://readme-typing-svg.vercel.app/?lines=MERN+Stack+Specialist;Tech+Enthusiast;Continuous+Learner&center=true&size=24&width=500&height=50&color=007cff&vCenter=true&pause=1000" />
     </a>
   </p>
 </div>
