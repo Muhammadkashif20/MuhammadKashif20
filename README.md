@@ -20,18 +20,6 @@
 
 ## 🚀 Professional Snapshot
 
-graph TD
-    A[Mern Stack Developer] --> B[Frontend]
-    A --> C[Backend]
-    B --> D[React.js]
-    B --> E[Next.js]
-    B --> F[Tailwind CSS]
-    C --> G[Node.js]
-    C --> H[Express.js]
-    C --> I[MongoDB]
-    J --> K[Vercel]
-    J --> L[Netlify]
-
 🌈 Frontend Ecosystem
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,bootstrap,materialui,redux,antdesign" alt="Frontend Technologies" /> </div>
 
@@ -43,11 +31,12 @@ graph TD
 
 📈 GitHub Analytics
 <div align="center"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadkashif20&show_icons=true&theme=transparent&title_color=007cff&text_color=333&icon_color=007cff&bg_color=00000000&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkashif20&layout=compact&theme=transparent&title_color=007cff&text_color=333&bg_color=00000000&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkashif20&theme=transparent&background=00000000&hide_border=true&ring=007cff&fire=007cff&currStreakLabel=333" /> </div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&bg_color=ffffff&color=333333&line=007cff&point=333333&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" /> </div>
-
- title Current Learning Distribution
-    "Backend Development Node, Express" : 35
+```mermaid
+pie
+    title Current Learning Distribution
+    "Backend Development (Node, Express)" : 35
     "Frontend Development" : 25
-    "Database MongoDB, Firebase" : 20
+    "Database (MongoDB, Firebase)" : 20
     "JavaScript Mastery" : 20
 
 🤝 Let's Connect
