@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Muhammad%20Kashif&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Muhammadkashif20&data=followers,repositories,stars,commits&theme=default" />
+</p>
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -7,9 +10,6 @@
     </a>
   </p>
 </div>
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Muhammadkashif20&data=followers,repositories,stars,commits&theme=nautilus" />
-</p>
 
 <div align="center">
   <div style="background: #f0f0f0; padding: 20px; border-radius: 20px; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; display: inline-block;">
