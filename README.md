@@ -7,6 +7,23 @@
     </a>
   </p>
 </div>
+<!-- 📦 Personal GitHub Repo Card Box -->
+<div align="center">
+  <div style="background: white; padding: 20px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); max-width: 400px; margin: 30px auto;">
+    <img src="https://avatars.githubusercontent.com/u/108047308?v=4" alt="Kashif" width="100" style="border-radius: 50%; margin-bottom: 10px;" />
+    <h3 style="margin: 10px 0 5px;">Muhammad Kashif</h3>
+    <p style="margin: 0; color: #555;">@muhammadkashif20</p>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadkashif20&repo=YourRepoNameHere&theme=default" alt="Pinned Repo" />
+    <br /><br />
+    <a href="https://github.com/muhammadkashif20" target="_blank">
+      <img src="https://img.shields.io/github/followers/muhammadkashif20?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/muhammadkashif20?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/github/stars/muhammadkashif20?style=social" />
+    </a>
+  </div>
+</div>
 
 <div align="center">
   <div style="background: #f0f0f0; padding: 20px; border-radius: 20px; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; display: inline-block;">
