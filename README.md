@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.vercel.app/?lines=Full-Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast;Continuous+Learner&center=true&size=24&width=500&height=50&color=007cff&vCenter=true&pause=1000" />
+      <img src="https://readme-typing-svg.vercel.app/?lines=MERN+Stack+Specialist;Frontend+Developer;Tech+Enthusiast;Continuous+Learner&center=true&size=24&width=500&height=50&color=007cff&vCenter=true&pause=1000" />
     </a>
   </p>
 </div>
@@ -36,12 +36,12 @@
   <h3>📊 Current Learning Distribution</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <!-- Pie Chart using CSS -->
-    <div style="width: 200px; height: 200px; border-radius: 50%; background: conic-gradient(
-      #007bff 0% 35%,
-      #28a745 35% 60%,
-      #dc3545 60% 80%,
-      #ffc107 80% 100%
-    );"></div>
+<svg width="200" height="200" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#007bff" stroke-width="10" stroke-dasharray="35 65" transform="rotate(-90 50 50)"/>
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#28a745" stroke-width="10" stroke-dasharray="25 75" transform="rotate(26 50 50)"/>
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#dc3545" stroke-width="10" stroke-dasharray="20 80" transform="rotate(116 50 50)"/>
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#ffc107" stroke-width="10" stroke-dasharray="20 80" transform="rotate(188 50 50)"/>
+</svg>
 
   </div>
 </div>
