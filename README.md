@@ -29,8 +29,23 @@
 🛠️ Development Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bash" alt="Development Tools" /> </div>
 
-📈 GitHub Analytics
-<div align="center"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadkashif20&show_icons=true&theme=transparent&title_color=007cff&text_color=333&icon_color=007cff&bg_color=00000000&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkashif20&layout=compact&theme=transparent&title_color=007cff&text_color=333&bg_color=00000000&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkashif20&theme=transparent&background=00000000&hide_border=true&ring=007cff&fire=007cff&currStreakLabel=333" /> </div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&bg_color=ffffff&color=333333&line=007cff&point=333333&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" /> </div>
+## 📈 GitHub Analytics
+
+<div align="center">
+  <!-- GitHub Stats Card with Dark Mode Support -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadkashif20&show_icons=true&theme=dark&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <!-- Languages Card with Dark Mode Support -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkashif20&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <!-- Streak Stats with Dark Mode Support -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkashif20&theme=github-dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<!-- Activity Graph with Dark Mode Support -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" />
+</div>
 
 🤝 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-kashif-85053b305/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:unnamed9080@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
