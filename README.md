@@ -35,15 +35,25 @@
 <div align="center">
   <h3>📊 Current Learning Distribution</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Pie Chart using CSS -->
-<svg width="200" height="200" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="45" fill="none" stroke="#007bff" stroke-width="10" stroke-dasharray="35 65" transform="rotate(-90 50 50)"/>
-  <circle cx="50" cy="50" r="45" fill="none" stroke="#28a745" stroke-width="10" stroke-dasharray="25 75" transform="rotate(26 50 50)"/>
-  <circle cx="50" cy="50" r="45" fill="none" stroke="#dc3545" stroke-width="10" stroke-dasharray="20 80" transform="rotate(116 50 50)"/>
-  <circle cx="50" cy="50" r="45" fill="none" stroke="#ffc107" stroke-width="10" stroke-dasharray="20 80" transform="rotate(188 50 50)"/>
-</svg>
-
-  </div>
+    
+ <div style="text-align: left;">
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <div style="width: 15px; height: 15px; background: #007bff; margin-right: 8px;"></div>
+        <span>Backend (Node, Express) - 35%</span>
+      </div>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <div style="width: 15px; height: 15px; background: #28a745; margin-right: 8px;"></div>
+        <span>Frontend Development - 25%</span>
+      </div>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <div style="width: 15px; height: 15px; background: #dc3545; margin-right: 8px;"></div>
+        <span>Database (MongoDB, Firebase) - 20%</span>
+      </div>
+      <div style="display: flex; align-items: center; margin: 8px 0;">
+        <div style="width: 15px; height: 15px; background: #ffc107; margin-right: 8px;"></div>
+        <span>JavaScript Mastery - 20%</span>
+      </div>
+    </div>
 </div>
 
 🤝 Let's Connect
