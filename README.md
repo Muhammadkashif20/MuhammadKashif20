@@ -7,7 +7,9 @@
     </a>
   </p>
 </div>
-
+<div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammadkashif20&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Muhammadkashif20/github-widgetbox)
+</div>
 <div align="center">
   <div style="background: #f0f0f0; padding: 20px; border-radius: 20px; box-shadow: 8px 8px 15px #d9d9d9, -8px -8px 15px #ffffff; display: inline-block;">
     <img src="https://github-profile-trophy.vercel.app/?username=muhammadkashif20&theme=flat&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies" />
