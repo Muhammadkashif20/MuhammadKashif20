@@ -14,42 +14,18 @@
 
 ---
 
-## 👋 Hey there! I'm Muhammad Kashif
+## 👋 Hey, I'm Muhammad Kashif
 
-🎓 A student developer at **Saylani Mass IT Training**  
-🧑‍💻 A passionate **Frontend Developer** turning into a **Full-Stack MERN Engineer**  
-🌱 Currently exploring **Node.js**, **Express.js**, and **MongoDB**  
-🚀 I love building clean UIs, reusable components, and fast web apps
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-kashif-85053b305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:unnamed9080@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+🚀 A passionate **Frontend Developer** focused on building fast, beautiful, and modern web experiences. I'm currently diving deep into the **MERN Stack** and love working on clean UI, seamless UX, and real-world projects.
 
 ---
 
 ## 💻 Tech Stack
-
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />
-
-### 🧠 Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-### 🧰 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" />
+`HTML`, `CSS`, `JavaScript`, `React.js`, `Next.js`, `Tailwind`, `Firebase`, `MongoDB`, `Node.js`, `Express.js`
 
 ---
 
-## 📊 GitHub Highlights
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadkashif20&show_icons=true&theme=vue&title_color=007cff&icon_color=007cff" height="180px"/>
@@ -58,15 +34,15 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadkashif20&theme=vue&ring=007cff&fire=007cff" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadkashif20&theme=vue&ring=007cff&fire=007cff" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🌍 My Dev Journey in Contributions
+## 🌍 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&area=true&bg_color=ffffff&color=007cff&line=007cff&point=24292e&hide_border=true" alt="Contribution Graph"/>
@@ -74,16 +50,14 @@
 
 ---
 
-## 🧠 Learning Goals for 2025
+## 📫 Connect with Me
 
-- Master **API integration** and **backend architecture**
-- Build and deploy a **full-stack SaaS app**
-- Contribute to **open-source projects**
-- Create a **personal portfolio site** with blog and project showcase
-
----
-
-> 💡 *“Code is not just logic — it’s the bridge between ideas and innovation.”*
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-kashif-85053b305/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
+> ⚡ *“Creating sleek interfaces and powerful web apps — one pixel and one line at a time.”*
