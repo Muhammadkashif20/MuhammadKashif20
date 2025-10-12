@@ -19,14 +19,35 @@
 
 ## 🚀 Professional Snapshot
 
-🌈 Frontend Ecosystem
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,bootstrap,materialui,redux,antdesign" alt="Frontend Technologies" /> </div>
+<div align="center">
 
-⚙️ Backend Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies" /> </div>
+💻 **Frontend Wizardry**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,redux,antdesign" alt="Frontend Stack" />
+<br><sub>Specializing in modern UI/UX and interactive web applications</sub>
 
-🛠️ Development Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bash" alt="Development Tools" /> </div>
+---
+
+⚙️ **Backend Craftsmanship**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Stack" />
+<br><sub>Building scalable APIs and server-side integrations</sub>
+
+---
+
+🛠️ **Development Toolkit**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bash" alt="Development Tools" />
+<br><sub>Focused on efficient workflow and deployment automation</sub>
+
+---
+
+🌟 **Core Strengths**
+<br>
+🧠 Problem Solving • 🕹️ UI Engineering • 🔁 Code Optimization • 🚀 Performance Tuning
+
+</div>
+
 
 ## 📈 GitHub Analytics
 
