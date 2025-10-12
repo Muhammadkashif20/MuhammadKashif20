@@ -22,11 +22,8 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,redux" />
-
- 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-
+  <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
 </div>
