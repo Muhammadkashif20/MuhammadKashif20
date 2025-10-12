@@ -20,28 +20,15 @@
 
 ### 🧩 Current Skills
 <div align="center">
-  
-**Frontend:**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,redux" />
-
-**Backend:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-**Tools & Platforms:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-
 </div>
-
 ---
-
 ### 🎯 Plans of Learning
 <div align="center">
-<img src="https://skillicons.dev/icons?i=angular,aws,python,django,typescript,graphql,docker" />
+<img src="https://skillicons.dev/icons?i=angular,aws,python,django,typescript,docker" />
 </div>
-
-<p align="center">
-  <sub>Focused on expanding knowledge in scalable architectures, cloud deployment, and backend frameworks.</sub>
-</p>
 
 ## 📈 GitHub Analytics
 
