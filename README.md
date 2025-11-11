@@ -12,8 +12,12 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile+Views&color=007cff&style=flat-square" alt="Profile views" />
-  </div>
+  <img 
+       src="https://streak-stats.demolab.com?user=MuhammadKashif20&theme=dark&hide_border=true&background=000000" 
+       alt="GitHub Streak"
+       height="180"
+  />
+</div>
 
 ---
 ## 🚀 Professional Snapshot
