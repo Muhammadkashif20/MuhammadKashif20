@@ -34,7 +34,7 @@
 ### 🎯 Plans of Learning
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,python,django,typescript,docker" />
+<img src="https://skillicons.dev/icons?i=typescript,docker" />
 </div>
 
 ## 📈 GitHub Analytics
