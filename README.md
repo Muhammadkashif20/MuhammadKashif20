@@ -15,7 +15,9 @@
     <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile+Views&color=007cff&style=flat-square" alt="Profile views" />
   </div>
 
-# 🚀 Professional Snapshot
+---
+
+##🚀 Professional Snapshot
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,redux" />
@@ -25,6 +27,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
 </div>
+
+---
 
 ## 📈 GitHub Analytics
 
