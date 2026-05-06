@@ -16,7 +16,7 @@
   </div>
 
 ---
- 🚀 Professional Snapshot
+# 🚀 Professional Snapshot
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,redux" />
