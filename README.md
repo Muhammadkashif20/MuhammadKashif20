@@ -36,12 +36,8 @@
   <!-- GitHub Stats Card with Dark Mode Support -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkashif20&layout=compact&theme=github_dark&hide_border=true" />
 
-  <!-- Languages Card with Dark Mode Support -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkashif20&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
-
-  <!-- Streak Stats with Dark Mode Support -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkashif20&theme=github-dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+  <!-- Github Trophies -->
+ <img src="https://github-profile-trophy.vercel.app/?username=muhammadkashif20&theme=onestar&no-frame=true&row=1&column=6" />
 
 <!-- Activity Graph with Dark Mode Support -->
 <div align="center">
