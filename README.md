@@ -45,4 +45,6 @@
  
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-kashif-85053b305/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:unnamed9080@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&desc=Thanks%20for%20visiting!%20Let's%20build%20something%20awesome%20together.&fontSize=16&fontColor=fff&animation=fadeIn" /> </div>
+
 
