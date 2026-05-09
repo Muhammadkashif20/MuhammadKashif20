@@ -36,7 +36,7 @@
   <!-- GitHub Stats Card with Dark Mode Support -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkashif20&layout=compact&theme=github_dark&hide_border=true" />
 
-<!-- Activity Graph with Dark Mode Support -->
+<!-- Activity Graph  -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadkashif20&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" />
 </div>
