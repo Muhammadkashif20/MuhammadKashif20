@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tech Arsenal
+## 🚀 Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,redux" />
@@ -33,8 +33,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card with Dark Mode Support -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadkashif20&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Muhammadkashif20&theme=github-dark&hide_border=true" />
+</div>
 
 <!-- Activity Graph  -->
 <div align="center">
