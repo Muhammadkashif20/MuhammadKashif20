@@ -11,6 +11,8 @@
   </p>
 </div>
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMuhammadkashif20&style=flat)](https://rankistan.dev)
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=muhammadkashif20&label=Profile+Views&color=007cff&style=flat-square" alt="Profile views" />
   </div>
