@@ -3,7 +3,6 @@
   <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Muhammadkashif20&data=followers,repositories,stars,commits&theme=default" />
 </p>
-  
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.vercel.app/?lines=MERN+Stack+Specialist;Frontend+Developer;Tech+Enthusiast;Continuous+Learner&center=true&size=24&width=500&height=50&color=007cff&vCenter=true&pause=1000" />
